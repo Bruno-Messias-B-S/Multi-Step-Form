@@ -4,7 +4,7 @@
 <p>This is a Multi-Step Form made during my React journey, I've used most of the things I've been learning in this project.</p>
 
 ## | Overview
-<img alt="overview" src="./form.gif">
+<img alt="overview" src="./readMeFiles/form.gif">
 
 ## | Made Using
 <ul>
